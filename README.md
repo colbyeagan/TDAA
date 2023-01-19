@@ -1,7 +1,5 @@
 # TDAA
 
-tweets.ipynb is the main file.  
-
 TDAA - Twitter Digital Asset Analyzer by [Colby Eagan](https://github.com/colbyeagan1)  
   
 This project encompasses Colby Eagan's undergraduate research under the mentorship of [Dr. Deen Freelon](https://github.com/dfreelon)  
