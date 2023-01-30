@@ -1,5 +1,6 @@
 .env
 testers.ipynb
+.DS_Store
 tweet_scrape.py
 time_series.ipynb
 data.json
