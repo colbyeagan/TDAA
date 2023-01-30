@@ -3,6 +3,7 @@ testers.ipynb
 tweet_scrape.py
 time_series.ipynb
 data.json
+data.csv
 data_range_0.json
 data_range_1.json
 data_range_2.json
